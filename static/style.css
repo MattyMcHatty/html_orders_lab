@@ -1,0 +1,22 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:chocolate;
+}
+
+a{
+    color:darkgreen;
+}
+
+a:hover{
+    color:crimson;
+}
+
+a:visited{
+    color:blueviolet;
+}
+
+body > h1 {
+    color:darkblue;
+    background-color: blanchedalmond;
+    align-items: center;
+}
